@@ -2,13 +2,11 @@
 2-23-2025
 
 ## How To Test
- - Clone repository
- - Create testing branch
- - Visit "function.js"
- - Run and Debug with Node.js
- - See terminal for results
-
-
+- Clone repository [git clone (paste ssh link)]
+- Open with code editor / I used VS code for this exercise [code .]
+- Run [ node function.js ] in the command line
+- See terminal for results
+  
  ## Problems And Solutions
 
  - My initial thought process was to break up each word or phrase into individual strings and store them in a 'Preamble' array, but I still ran into the issue of how to check the beginning and ending character.
